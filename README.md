@@ -1,5 +1,5 @@
 # StockScan
-QR Scanner for tracking stock based on flutter
+QR Scanner for tracking stock based on flutter.
 
 How to run:
 1. Import to android studio
